@@ -1,0 +1,71 @@
+body{
+    background: url("./portraite\ new.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    img{
+        height: 250px;
+        width: 250px;
+        border-radius: 20%;
+        margin-top: 100px;
+        opacity: 0.2;
+    }
+    .main{
+    display: portrait;
+    justify-content: space-evenly;
+margin: auto;
+    border-radius: 0% 0% 0% 0%;
+    }
+    
+    h1{
+    margin-bottom: 0px;
+    color:rgb(189, 76, 0);
+    }
+    img:hover{
+    opacity: 1;
+    }
+
+    .img1{
+        box-shadow: 5px 5px 5px rgb(75, 75, 85);
+    }
+    .img2{
+            box-shadow: 5px 5px 5px rgb(60, 125, 114);
+    }
+    .img3{
+        box-shadow: 5px 5px 5px rgb(240, 109, 27);
+    }
+    .img4{
+       box-shadow: 5px 5px 5px red;
+    }
+    .div1{
+        h3{
+            text-align: center;
+            font-size: xx-large;
+            font-family:'Courier New', Courier, monospace;
+            color: rgb(75, 75, 85);
+            }
+    }
+    .div2{
+        h3{
+            text-align: center;
+            font-size: xx-large;
+            font-family:'Courier New', Courier, monospace;
+            color:rgb(60, 125, 114);
+            }
+    }
+    .div3{
+        h3{
+            text-align: center;
+            font-size: xx-large;
+            font-family:'Courier New', Courier, monospace;
+            color: rgb(240, 109, 27);
+            }
+    }
+    .div4{
+        h3{
+            text-align: center;
+            font-size: xx-large;
+            font-family:'Courier New', Courier, monospace;
+            color: red;
+            }
+    }

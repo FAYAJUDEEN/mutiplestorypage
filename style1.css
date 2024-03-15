@@ -1,0 +1,11 @@
+body{
+    background: url("./GOT\ BACKGROUND\ 2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .main{
+        display: flex;
+        justify-content: space-evenly;
+    margin: auto;
+        border-radius: 0% 0% 0% 0%;
+        }
